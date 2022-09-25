@@ -12,6 +12,6 @@ Este es un repositorio creado con el fin de documentar el proyecto final de curs
 
 Está divido de la siguiente manera:
 
-- Data: Contiene las imágenes usadas como entrada para todos los análisis realizados.
-- Documentación: Contiene los informes entregados semana a semana como avance del proyecto.
+- Data: Contiene las imágenes usadas como entrada para todos los análisis realizados y los archivos csv resultantes de la descomposición de las mismas usando PCA
+- Documentación: Contiene los informes entregados semana a semana como avance del proyecto, el articulo final y la presentación realizada del proyecto.
 - Notebooks: Contiene el código fuente elaborado en los diferentes análisis.
